@@ -46,9 +46,6 @@ p {
     border-width: thick;
 }
 
-.cta {
-    padding-top: 30px;
-}
 .hero-image, img {
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
@@ -100,5 +97,9 @@ p {
 .cancel {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 500;
-    padding-top: 10px;
+    padding-top: 15px;
+}
+
+img {
+    padding-bottom: 50px;
 }
