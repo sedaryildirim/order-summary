@@ -35,8 +35,8 @@ Users should be able to:
 
 ## My process
 
-Started with placing all html elements in corect divs, along with class ids to to move onto CSS
-styling using flexbox.
+Started with placing all html elements in correct divs, along with class ids to to move onto CSS
+styling using flexbox
 
 ### Built with
 
@@ -46,7 +46,8 @@ styling using flexbox.
 
 ### What I learned
 
-How to wrap text around a paragraph with word-wrap: break-word; 
+How to wrap text around a paragraph with word-wrap: break-word; along with better understanding
+of how to place divs and to use flexbox better
 
 .paragraph-text {
     width: 300px;
@@ -56,7 +57,7 @@ How to wrap text around a paragraph with word-wrap: break-word;
 
 ### Continued development
 
-Need to improve on flexbox layout and aligning/resizing flexboxes
+Need to improve on flexbox layout and aligning/resizing flexboxes, along with code cleanup
 
 ### Useful resources
 
