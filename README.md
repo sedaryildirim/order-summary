@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sedaryildirim/order-summary)
-- Live Site URL: [Add live site URL here](https://sedaryildirim.github.io/order-summary/)
+- Solution URL: [Repo](https://github.com/sedaryildirim/order-summary)
+- Live Site URL: [Github Pages](https://sedaryildirim.github.io/order-summary/)
 
 ## My process
 
@@ -65,11 +65,13 @@ Need to improve on flexbox layout and aligning/resizing flexboxes
 
 ## Author
 
-- Website - [Sedar Yildirim](https://github.com/sedaryildirim)
+- Github - [Sedar Yildirim](https://github.com/sedaryildirim)
 - Frontend Mentor - [@sedaryildirim](https://www.frontendmentor.io/profile/sedaryildirim)
 
 ## Acknowledgments
 
 [Frontendmentor.io](https://www.frontendmentor.io/)
+
 [Flexboxfroggy](https://flexboxfroggy.com/)
+
 [Kevin Powell](https://www.youtube.com/KevinPowell)
