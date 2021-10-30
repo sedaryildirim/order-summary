@@ -31,8 +31,68 @@ p {
 .paragraph-text {
     width: 300px;
     word-wrap: break-word;
+    margin-bottom: 30px;
 }
 
 .cta-background, .cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
     background-color: white;
+    border-radius: 20px;
+    border-top: hsl(223, 47%, 23%);
+    border-width: thick;
+}
+
+.hero-image, img {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top: hsl(223, 47%, 23%);
+    border-width: thick;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(225, 100%, 98%);
+    border: 20px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.info-text {
+    width: 150px;
+    word-wrap: break-word;
+    padding-left: 20px;
+}
+
+.buttons, .paragraph-text, h1 {
+    text-align: center;
+}
+
+.proceed {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-color: hsl(245, 75%, 52%);
+    border-radius: 20px;
+    padding: 0px 100px;
+    font-family: 'Red Hat Display', sans-serif;
+    margin-top: 30px;
+    height: 50px;
+    font-weight: 700;
+}
+
+.proceed:hover, .cancel:hover, .info:hover {
+    transform: scale(1.1);
+}
+
+.cancel {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
 }
