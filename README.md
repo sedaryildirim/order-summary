@@ -46,24 +46,19 @@ styling using flexbox
 
 ### What I learned
 
-How to wrap text around a paragraph with word-wrap: break-word; along with better understanding
-of how to place divs and to use flexbox better
-
-.paragraph-text {
-    width: 300px;
-    word-wrap: break-word;
-    margin-bottom: 30px;
-}
+- Wrap text with word-wrap: & break-word
+- Better placement of <divs> to utilise flexbox
 
 ### Continued development
 
-Need to improve on flexbox layout and aligning/resizing flexboxes, along with code cleanup
+- Improve Flexbox Usage
+- Improve shorthand knowledge
+- Learn responsive layout design
 
 ### Useful resources
 
-- [Flexbox Froggy](https://flexboxfroggy.com/) - This helped with getting better at controlling flexbox
-- [Kevin Powell](https://www.youtube.com/KevinPowell) - Amazing HTML & CSS tutorirals
-
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox Tutorial
+- [Kevin Powell](https://www.youtube.com/KevinPowell) - HTML & CSS tutorirals
 ## Author
 
 - Github - [Sedar Yildirim](https://github.com/sedaryildirim)
