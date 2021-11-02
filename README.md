@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo](https://github.com/sedaryildirim/order-summary)
-- Live Site URL: [Github Pages](https://sedaryildirim.github.io/order-summary/)
+- Live Site URL: [Live Site](https://sedaryildirim.github.io/order-summary/)
 
 ## My process
 
